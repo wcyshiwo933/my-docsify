@@ -1,0 +1,9 @@
+{
+    "name": "天府大帅春乱七八糟的东西",
+    "version": "0.0.1",
+    "description": "天府大帅春乱七八糟的东西",
+    "author": "wucy",
+    "scripts": {
+        "serve": "docsify serve"
+    }
+}
